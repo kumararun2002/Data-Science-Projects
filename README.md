@@ -18,3 +18,5 @@
 #### spam emails - Used Naive Bayes classifier with preprocessing of emails. Got an accuracy of 98% on test set.
 
 #### student placements - Used regression with preprocessing. Got an MSE of 31.9 on test set.
+
+### Download the whole folders for getting the codes and running it. 
