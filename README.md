@@ -5,9 +5,9 @@
 
 #### Namami Ganga - Used SVM with preprocessing. Got an accuracy of 73% on test set.
 
-#### Passport Checking - Used Decison Trees and got a accuracy of 97% on test set.
+#### Passport Checking - Used Decison Trees and got an accuracy of 97% on test set.
 
-#### Suspicious Vehicles - Used Random Forests and got a 88.5% on test set.
+#### Suspicious Vehicles - Used Random Forests and got an accuracy of 88.5% on test set.
 
 #### e-commerce startup - Used Linear Regression and got an MSE of 268.5 on test set.
 
